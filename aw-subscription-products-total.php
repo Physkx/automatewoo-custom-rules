@@ -1,8 +1,11 @@
 <?php
 /**
  * Plugin Name: AutomateWoo Subscription Products Total
+ * Plugin URI: https://itarchitects.co.nz
  * Description: Custom AutomateWoo rule that computes the total value of all products in a subscription
  * Author: Mark Longden
+ * Author URI: https://itarchitects.co.nz
+ * License: GPL v2 or later
  * Version: 1.0.0
  */
 
